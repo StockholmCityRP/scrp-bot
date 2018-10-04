@@ -2,9 +2,9 @@
   "name": "SCRP",
   "description": "SCRP1",
   "version": "0.0.1",
-  "main": "bot.py",
+  "main": "bot.js",
   "scripts": {
-    "start": "node bot.py"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
